@@ -27,7 +27,6 @@ public class MatrizOperaciones {
 
 
 
-        // ... (resto del código) ...
 
     public void multiplicarMatricesSiEsPosible() {
         if (matrices.size() > 1) {
@@ -46,7 +45,7 @@ public class MatrizOperaciones {
         }
     }
 
-        // ... (resto del código) ...
+
     }
 
 
