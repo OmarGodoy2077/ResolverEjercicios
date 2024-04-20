@@ -10,11 +10,11 @@ public class MatrizMain {
         int cantidadMatrices = scanner.nextInt();
 
         for (int i = 0; i < cantidadMatrices; i++) {
-            System.out.println("Ingresa los datos para la matriz " + (i + 1) + ":");
+            System.out.println("Ingresa los datos para la matriz" + (i + 1) + ":");
             operaciones.agregarMatriz();
         }
 
-       
+
         operaciones.multiplicarMatricesSiEsPosible();
 
         scanner.close();
