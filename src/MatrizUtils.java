@@ -14,7 +14,7 @@ public class MatrizUtils {
                             break;
                         } else {
                             System.out.println("Por favor, ingresa un número entero válido.");
-                            scanner.next(); // Limpiar el buffer del escáner
+                            scanner.next();
                         }
                     } catch (InputMismatchException e) {
                         System.out.println("Error: " + e.getMessage());

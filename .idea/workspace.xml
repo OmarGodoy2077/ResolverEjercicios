@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30855bf3-8bfc-47e7-b825-803b65dfb85d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResolverEjercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrizMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrizOperaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrizUtils.java" afterDir="false" />
+    <list default="true" id="30855bf3-8bfc-47e7-b825-803b65dfb85d" name="Changes" comment="Segundo Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrizMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrizMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrizUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrizUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +59,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713493970316</updated>
-      <workItem from="1713493971335" duration="9747000" />
+      <workItem from="1713493971335" duration="16394000" />
     </task>
+    <task id="LOCAL-00001" summary="Segundo Commit">
+      <option name="closed" value="true" />
+      <created>1713565532791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713565532791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Segundo Commit">
+      <option name="closed" value="true" />
+      <created>1713565612768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713565612768</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Segundo Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo Commit" />
   </component>
 </project>
